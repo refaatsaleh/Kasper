@@ -300,6 +300,7 @@ header nav .form i:hover {
 }
 .services .box i {
     margin-right: 50px;
+    font-size: 40px;
 }
 @media (max-width: 767px) {
     .services .box  {
